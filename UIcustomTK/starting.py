@@ -9,8 +9,7 @@ root = ctk.CTk()
 root.geometry("500x500")
 
 def login():
-    print("text")
-
+    pritn("hello")
 frame = ctk.CTkFrame(master=root)
 frame.pack(pady=20, padx=60, fill="both",expand=True)
 
