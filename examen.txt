@@ -26,16 +26,14 @@ df['name'].median()
 Diagrama de caja
 9.
 La desviación estándar se puede dividir por:
-Positiva y negativa
-REPASAR CLASE --> poblacion y muestra
+Población y muestra
 10.
 El rango de un dato que describe la altura en un conjunto de datos se puede calcular como:
 df['height'].max() - df['height'].min()
 
 11.
 Un diagrama de dispersión nos sirve para:
-Visualizar la correlación de todas las variables dentro de nuestro conjunto de datos.
-REPASAR CLASE
+Ninguna respuesta es correcta.
 12.
 Una de las razones por las que realizamos escalamientos es:
 Para que los optimizadores de nuestros modelos funcionen mejor.
@@ -50,13 +48,11 @@ El preprocesamiento por mapeo se puede aplicar tanto a variables categóricas y 
 Verdadero
 16.
 Cuando el coeficiente de correlación es alto:
-Los datos en nuestro diagrama de dispersión se agrupan con una pendiente negativa.
-REPASAR CLASE
+Los datos en nuestro diagrama de dispersión se agrupan con una pendiente positiva.
 17.
 Una matriz de covarianza nos sirve para:
 Comparar la varianza y covarianza de todos nuestros datos en una matriz.
 18.
 El análisis de componentes principales es un proceso de:
-Normalización de datos
+Compresión de datos
 REPASAR CLASE
-REGRESAR
